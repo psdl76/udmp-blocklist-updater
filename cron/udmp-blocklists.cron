@@ -1,0 +1,2 @@
+# User-Crontab Snippet (per `crontab -e`)
+30 4 * * * /usr/local/bin/update_udmp_blocklists.sh >/dev/null 2>&1

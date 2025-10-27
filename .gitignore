@@ -1,0 +1,11 @@
+# local secrets
+/etc/unifi-api.secret
+*.pem
+*.crt
+*.key
+
+# tmp
+*.swp
+*.swo
+*~
+.DS_Store
