@@ -200,6 +200,6 @@ curl -sS -b /tmp/unifi_cookie.txt \
 
 ## 🧾 12. License
 
-MIT License © 2025 – Created by Peter – Optimized with support from GPT-5
+MIT License © 2025 – Created by Peter
 
 Last update: 27 October 2025 — Version: 1.0-stable
